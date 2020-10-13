@@ -1,0 +1,12 @@
+C:\GIT\GIT_NOVY\Pokladna_Zacek\Pokladna_Zacek\bin\Debug\Pokladna_Zacek.exe.config
+C:\GIT\GIT_NOVY\Pokladna_Zacek\Pokladna_Zacek\bin\Debug\Pokladna_Zacek.exe
+C:\GIT\GIT_NOVY\Pokladna_Zacek\Pokladna_Zacek\bin\Debug\Pokladna_Zacek.pdb
+C:\GIT\GIT_NOVY\Pokladna_Zacek\Pokladna_Zacek\bin\Debug\Newtonsoft.Json.dll
+C:\GIT\GIT_NOVY\Pokladna_Zacek\Pokladna_Zacek\bin\Debug\Newtonsoft.Json.xml
+C:\GIT\GIT_NOVY\Pokladna_Zacek\Pokladna_Zacek\obj\Debug\Pokladna_Zacek.csprojAssemblyReference.cache
+C:\GIT\GIT_NOVY\Pokladna_Zacek\Pokladna_Zacek\obj\Debug\Pokladna_Zacek.Form1.resources
+C:\GIT\GIT_NOVY\Pokladna_Zacek\Pokladna_Zacek\obj\Debug\Pokladna_Zacek.Properties.Resources.resources
+C:\GIT\GIT_NOVY\Pokladna_Zacek\Pokladna_Zacek\obj\Debug\Pokladna_Zacek.csproj.GenerateResource.cache
+C:\GIT\GIT_NOVY\Pokladna_Zacek\Pokladna_Zacek\obj\Debug\Pokladna_Zacek.csproj.CopyComplete
+C:\GIT\GIT_NOVY\Pokladna_Zacek\Pokladna_Zacek\obj\Debug\Pokladna_Zacek.exe
+C:\GIT\GIT_NOVY\Pokladna_Zacek\Pokladna_Zacek\obj\Debug\Pokladna_Zacek.pdb

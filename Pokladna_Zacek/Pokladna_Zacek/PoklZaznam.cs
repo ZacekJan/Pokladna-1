@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace Pokladna_Zacek
 {
@@ -31,6 +32,20 @@ namespace Pokladna_Zacek
             Castka = castka;
             Zustatek = zustatek;
             Poznamka = poznamka;
+        }
+        public ListViewItem DoLvItem()
+        {
+            if (Castka > 0)
+            {
+                return new ListViewItem(new string[] { Datum.ToString("dd.MM.yyyy"), Cislo.ToString(), Popis, Castka.ToString(), ""
+                ,Zustatek.ToString(), Poznamka});
+            }
+            else
+            {
+               return new ListViewItem(new string[] { Datum.ToString("dd.MM.yyyy"), Cislo.ToString(), Popis, "", Math.Abs(Castka).ToString()
+                ,Zustatek.ToString(), Poznamka});
+            }
+
         }
     }
 }
